@@ -4,6 +4,6 @@ class Pokemon
   def initialize(keywords)
   end 
   
-  def self.save 
+  def self.save()
   end 
 end

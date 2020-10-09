@@ -3,4 +3,7 @@ class Pokemon
   
   def initialize(keywords)
   end 
+  
+  def save 
+  end 
 end
